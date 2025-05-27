@@ -1,2 +1,2 @@
 # App-Development
-In this i have to market app development company  how develop game and native apps
+The task is to market an app development company that develops native applications and games.
